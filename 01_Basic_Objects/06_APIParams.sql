@@ -1,0 +1,4 @@
+CREATE TABLE dbo.APIParams (
+	APIID INT NOT NULL
+	,ParamID INT NOT NULL
+)

@@ -1,0 +1,4 @@
+CREATE TABLE dbo.APIHeaders (
+	APIID INT NOT NULL
+	,HeaderID INT NOT NULL
+)
